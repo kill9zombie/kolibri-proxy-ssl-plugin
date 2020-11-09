@@ -8,6 +8,6 @@ from kolibri.plugins import KolibriPluginBase
 # from kolibri.plugins.user import hooks
 
 
-class OpenIDConnect(KolibriPluginBase):
+class ProxySSL(KolibriPluginBase):
     django_settings = "settings"
 
